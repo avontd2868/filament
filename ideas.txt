@@ -1,0 +1,10 @@
+wip.
+
+One table.
+
+Two tabs on main application window: Jobs, Data
+
+Fields:
+Name
+Unique ID
+Weight
