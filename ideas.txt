@@ -3,8 +3,17 @@ wip.
 One table.
 
 Two tabs on main application window: Jobs, Data
+Data is to be implemented later
 
-Fields:
-Name
-Unique ID
-Weight
+Structure:
+
+Jobs
+	ID
+	Patron Name
+	Patron Unique ID
+	Affiliation (Faculty, Staff, Student)
+	Item Weight
+	Library (Print Location [BEST or King])
+	Number of Files
+	Charge (per Item)
+	Total Charge (for all items)
