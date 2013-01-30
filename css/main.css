@@ -1,0 +1,34 @@
+/* main.css */
+/*
+
+Color values
+354037
+354037
+354037
+92B098 base
+92B098
+
+633F45
+49634E
+EBFCEF background color
+
+*/
+
+body {
+	background-color: #92B099;
+}
+
+div.job {
+	background-color: #EBFCEF; /* background color doesn't need quotes around hex values */
+	width: 90%;
+	height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+p {
+	font-size: 25px;
+}
+
+#

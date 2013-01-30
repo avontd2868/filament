@@ -5,7 +5,7 @@ One table.
 Two tabs on main application window: Jobs, Data
 Data is to be implemented later
 
-Structure:
+Table:
 
 Jobs
 	ID
@@ -17,3 +17,12 @@ Jobs
 	Number of Files
 	Charge (per Item)
 	Total Charge (for all items)
+
+MySQL table variables: int, varchar(20)
+
+field = column, record = row
+primary key- special, unique id field
+
+user_id int AUTO_INCREMENT PRIMARY KEY
+
+you can require a field by adding NOT NULL to the create description at the end, like email varchar(50) NOT NULL
