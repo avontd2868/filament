@@ -1,5 +1,5 @@
 <?php
-  require 'scripts/config.php';
+  require '../scripts/config.php';
 
   $db = new mysqli(DATABASE_HOST, DATABASE_USERNAME, DATABASE_PASSWORD, DATABASE_NAME);
 
@@ -25,7 +25,6 @@ SQL;
        echo $row['name'] . '<br />';
     }
 
-*/
   // SQL query-running goodness proceeds...
 
   $db->close();
